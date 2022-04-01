@@ -1,9 +1,9 @@
-Description = "欢迎来到凡梦星尘空间站，个人主要专注于程序开发，产品，售前及大数据解决方案。"
+Description = "欢迎来到南辰叶秋空间站，个人主要专注于程序开发，产品，售前及大数据解决方案。"
 Keywords =  "博客, 程序员, 架构师, 思考, 读书, 笔记, 技术, 分享, 大数据, 产品"
-Subtitle = "没有伞的孩子要学会努力奔跑!"
+Subtitle = "大丈夫生居天地间，岂能郁郁久居人下!"
 AuthorImg = "/img/avatar.png"
-AuthorName = "凡梦星尘"
-Introduce = "再平凡的人也有属于他自己的梦想!"
+AuthorName = "南辰叶秋"
+Introduce = "修于心，动于念，人生无道，道而生，跨越观念，沉于世俗，厉兵秣马，行天下，无常无畏，群马荡天涯。"
 DateFormat = "2006-01-02"
 YearFormat = "2006年"
 MonthFormat = "01-02"
@@ -27,17 +27,5 @@ ArticleDecContent = "本博客文章除特别声明外，均采用 <a href='http
   URL = "https://www.zhihu.com/people/fan-meng-xing-chen-1"
 
 [[Links]]
-  Name = "Nutz"
-  Permalink = "https://nutzam.com/"
-
-[[Links]]
-  Name = "JFinal"
-  Permalink = "https://jfinal.com/"
-
-[[Links]]
-  Name = "Wendal"
-  Permalink = "http://wendal.net/"
-
-[[Links]]
-  Name = "廖雪峰"
-  Permalink = "https://www.liaoxuefeng.com/"
+  Name = "callesp"
+  Permalink = "https://callesp.github.io/"

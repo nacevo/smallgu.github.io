@@ -1,6 +1,7 @@
 {{ partial "head.html" . }}
+
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
-<div class="container one-collumn sidebar-position-left {{ block "main_class" .}}{{end}}  ">
+  <div class="container one-collumn sidebar-position-left {{ block "main_class" .}}{{end}}  ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -17,7 +18,7 @@
         {{ partial "sidebar.html" . }}
       </div>
     </main>
-   
+
     <footer id="footer" class="footer">
       <div class="footer-inner">
         {{ partial "footer.html" . }}
@@ -32,4 +33,5 @@
 
   {{ partial "script.html" .}}
 </body>
+
 </html>
