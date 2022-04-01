@@ -23,7 +23,7 @@
   ServerURL = "Your LCServer"
 
 [Statis]
-  BusuanziCounter = true
+  BusuanziCounter = false
 #  CNNZSiteId = "Your CNNZSiteId"
 #  BaiduSiteId = "Your BaiduSiteId"
 #  GoogleSiteId = "Your GoogleSiteId"
